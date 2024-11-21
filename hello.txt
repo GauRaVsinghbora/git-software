@@ -1,1 +1,2 @@
 hello i am revising the git.
+adding second line to text file.
