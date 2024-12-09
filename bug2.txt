@@ -7,4 +7,4 @@ fifth bug detected and fixed.
 sixth bug detected and fixed;
 
 tenth bug detected and fixed; and i want to see the difference in previous commit and commit now;
-nothing to commit but i have to slash it.
+nothing to commit but i have to stash it.
