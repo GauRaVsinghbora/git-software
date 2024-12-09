@@ -11,3 +11,4 @@ nothing to commit but i have to stash it.
 
 pink mode added;
 another bug detected in pink mode.
+another one bug detected and fixed.
