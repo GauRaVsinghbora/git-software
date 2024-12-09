@@ -10,3 +10,4 @@ tenth bug detected and fixed; and i want to see the difference in previous commi
 nothing to commit but i have to stash it.
 
 pink mode added;
+another bug detected in pink mode.
